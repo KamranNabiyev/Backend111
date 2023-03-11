@@ -7465,11 +7465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\Groups\\Backend 111\\EduHome\\EduHome\\EduHome.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Backend111\\EduHome\\EduHome\\EduHome.csproj",
       "projectName": "EduHome",
-      "projectPath": "C:\\Users\\user\\Desktop\\Groups\\Backend 111\\EduHome\\EduHome\\EduHome.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\Backend111\\EduHome\\EduHome\\EduHome.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\Groups\\Backend 111\\EduHome\\EduHome\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\Backend111\\EduHome\\EduHome\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

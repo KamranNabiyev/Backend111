@@ -29,6 +29,7 @@ namespace EduHome.Controllers
                 Blogs = await _db.Blogs.ToListAsync(),
                 Services = await _db.Services.OrderByDescending(x=>x.Id).Skip(2).Take(3).ToListAsync(),
                 About = await _db.Abouts.FirstOrDefaultAsync(),
+                Courses = await _db.Courses.ToListAsync(),
             };
             return View(homeVM);
         }

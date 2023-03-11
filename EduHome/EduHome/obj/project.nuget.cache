@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KhmTeApswEh2g98Ya5YVoRniIv296qQAFA76e9Jx9/P1H7qllqe/Wlaw3vetM6YSdkZYiY1xpFiTzdvW6KSskQ==",
+  "dgSpecHash": "pQNYw6WDHx1J2EeHxCu4aA61T4P7jRFI69X1W8+1GmApkZzze8QRca6CLucrpdINT0ta84i5WwDqPiZQcbyTDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\Groups\\Backend 111\\EduHome\\EduHome\\EduHome.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Backend111\\EduHome\\EduHome\\EduHome.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
